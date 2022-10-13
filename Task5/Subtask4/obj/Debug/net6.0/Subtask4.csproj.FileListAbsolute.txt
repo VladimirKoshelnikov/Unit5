@@ -1,0 +1,15 @@
+D:\skill\Unit5\Task5\Subtask4\bin\Debug\net6.0\Subtask4.exe
+D:\skill\Unit5\Task5\Subtask4\bin\Debug\net6.0\Subtask4.deps.json
+D:\skill\Unit5\Task5\Subtask4\bin\Debug\net6.0\Subtask4.runtimeconfig.json
+D:\skill\Unit5\Task5\Subtask4\bin\Debug\net6.0\Subtask4.dll
+D:\skill\Unit5\Task5\Subtask4\bin\Debug\net6.0\Subtask4.pdb
+D:\skill\Unit5\Task5\Subtask4\obj\Debug\net6.0\Subtask4.csproj.AssemblyReference.cache
+D:\skill\Unit5\Task5\Subtask4\obj\Debug\net6.0\Subtask4.GeneratedMSBuildEditorConfig.editorconfig
+D:\skill\Unit5\Task5\Subtask4\obj\Debug\net6.0\Subtask4.AssemblyInfoInputs.cache
+D:\skill\Unit5\Task5\Subtask4\obj\Debug\net6.0\Subtask4.AssemblyInfo.cs
+D:\skill\Unit5\Task5\Subtask4\obj\Debug\net6.0\Subtask4.csproj.CoreCompileInputs.cache
+D:\skill\Unit5\Task5\Subtask4\obj\Debug\net6.0\Subtask4.dll
+D:\skill\Unit5\Task5\Subtask4\obj\Debug\net6.0\refint\Subtask4.dll
+D:\skill\Unit5\Task5\Subtask4\obj\Debug\net6.0\Subtask4.pdb
+D:\skill\Unit5\Task5\Subtask4\obj\Debug\net6.0\Subtask4.genruntimeconfig.cache
+D:\skill\Unit5\Task5\Subtask4\obj\Debug\net6.0\ref\Subtask4.dll
