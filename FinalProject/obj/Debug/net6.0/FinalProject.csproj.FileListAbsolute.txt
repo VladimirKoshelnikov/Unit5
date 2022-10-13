@@ -1,0 +1,15 @@
+D:\skill\Unit5\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+D:\skill\Unit5\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\skill\Unit5\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+D:\skill\Unit5\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+D:\skill\Unit5\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+D:\skill\Unit5\FinalProject\bin\Debug\net6.0\FinalProject.exe
+D:\skill\Unit5\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+D:\skill\Unit5\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+D:\skill\Unit5\FinalProject\bin\Debug\net6.0\FinalProject.dll
+D:\skill\Unit5\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+D:\skill\Unit5\FinalProject\obj\Debug\net6.0\FinalProject.dll
+D:\skill\Unit5\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+D:\skill\Unit5\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+D:\skill\Unit5\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+D:\skill\Unit5\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
