@@ -42,7 +42,7 @@ class Programm{
         
         do{
             Console.WriteLine("Введите ваш возраст");
-             // Считаем, что пользователь не может ввести не число иначе требуется использовать TryParse 
+            // Считаем, что пользователь может ввести не число. Требуется использовать TryParse 
             bool isAgeNumber = int.TryParse(Console.ReadLine(), out age);
             if (!IsNumberCorrect(age)||!isAgeNumber){
                 Console.WriteLine("Введены некорректные данные");     
@@ -67,8 +67,8 @@ class Programm{
 
         if (hasPet){
             do {
-                  Console.WriteLine("Введите количество питомцев");
-                 // Считаем, что пользователь не может ввести не число иначе требуется использовать TryParse
+                Console.WriteLine("Введите количество питомцев");
+                // Считаем, что пользователь может ввести не число. Требуется использовать TryParse 
                 bool isCountPetNumber = int.TryParse(Console.ReadLine(), out countPet);
                 if (!IsNumberCorrect(countPet)||!isCountPetNumber){
                     Console.WriteLine("Введены некорректные данные");
@@ -81,7 +81,8 @@ class Programm{
 
         do{
             Console.WriteLine("Введите количество ваших любимых цветов.");
-             // Считаем, что пользователь не может ввести не число иначе требуется использовать TryParse 
+            
+            // Считаем, что пользователь может ввести не число. Требуется использовать TryParse 
             bool isCountFavColorsNumber = int.TryParse(Console.ReadLine(), out countFavColors);
             
             if (!IsNumberCorrect(countFavColors)||!isCountFavColorsNumber){
